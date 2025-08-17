@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046347342722",
+    "project_id": "tbcare-b9252",
+    "storage_bucket": "tbcare-b9252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046347342722:android:253cf4a8608c9ea1a2a59b",
+        "android_client_info": {
+          "package_name": "com.example.tbcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XzoY19r0vh6E6unOxE-RjbmwAMd7O5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
